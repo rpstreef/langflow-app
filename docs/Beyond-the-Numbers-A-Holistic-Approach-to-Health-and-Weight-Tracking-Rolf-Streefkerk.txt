@@ -1,0 +1,410 @@
+Beyond the Numbers - A Holistic Approach to Health and
+Weight Tracking
+2024-6-4 on Tuesday
+2647 words
+14 minutes
+Health
+Diet , Fitness
+
+     Featured
+
+
+
+
+                      This article expresses my opinion only. None of what is presented here is medical advice!
+
+Trends in obesity1 continue to rise, even in the very young and young adult population of today. It’s clear that, as a society, we haven’t
+found a way to turn the tide of fat weight gain and unhealthy living.
+
+We are all "guilty" of an unhealthy life style from time to time; enjoying good food in a restaurant, on a holiday, having a beer with friends.
+It's food that can heal the soul, as they say.
+
+Beyond the social and cultural aspects of food. We need to also be mindful that it impacts our health in fundamental ways if we do not
+moderate "food as pleasure".
+
+Obesity trends in the USA
+
+
+
+
+                                                                                                                                   1
+Obesity is defined as body mass index (BMI) at or above the 95th percentile from the sex-specific BMI-for-age 2000 CDC Growth Charts
+Perhaps you recognize a few of the following scenarios in your own life:
+
+     Yo-yo dieting. You loose fat, the next month it's all back again, then you loose it again. Rinse and repeat.
+     The plateau of despair, you've hit a wall in your weight loss journey, it just doesn't seem to come off no matter what you do.
+     Excessive cardio to try and "burn those calories" and loose fat. It never seems to work for long.
+
+In this article I’ll hopefully raise some awareness on what kind of tools we could use to start getting control over health.
+
+     How can we manage our health in a more holistic way?
+
+To break this trend of fat gain, we need to start asking questions about; what we believe to be true, and what we are not aware of.
+
+Today, lets consider the following questions to start out with:
+
+     How do we measure what we eat, and is it accurate? If not, is there a better way?
+     What other factors influence weight gain and general health?
+
+Topic outline
+     TLDR
+
+     For an actionable Health plan you can start implementing today. Start here
+
+If you're interested in the background of my recommendations and viewpoints, read on or select from the topics of interest below.
+
+     What happens when we eat?
+     What are Calories? and do we need them?
+           What is Energy?
+           How is body weight affected?
+                 1. The body is an open thermodynamic system
+                 2. The body is not a perfect “machine”
+                 3. The body does not burn calories, it converts mass to other mass.
+     What about Hormones?
+           The Insulin-Carbohydrate Dance
+           The Insulin-Human Growth Hormone Connection
+           The Glucagon-Protein Tango
+           To hammer it home
+     Calories In, Calories Out (CICO) is fundamentally broken
+     3 Steps towards a more holistic Health approach
+           1. Choose the correct Macro composition.
+           2. Track your health over time
+           3. Adjust based on your situation, repeat.
+     Conclusion
+
+What happens when we eat?
+     An holistic view of what happens when we eat
+
+
+
+
+Food (or drink for that matter) of any combination, is a set of macro nutrients and micro nutrients. For the purpose of this discussion we
+focus only on the macro nutrient content.
+
+(1) Macro nutrients are:
+
+  1. Carbohydrates: For example from wheat, potatoes, broccoli etc.
+  2. Fats from meat, fish, eggs, avocado etc.
+  3. Proteins: typically from meat, fish, eggs as well.
+
+     Alcohol can be considered a macro nutrient (or a combination of a carbohydrate and fat). Typically it is included in Caloric
+     break downs of what is eaten. We won’t consider it in this discussion.
+
+The diagram then depicts that these macro’s are essentially mass (2), a scientific term to indicate; “An object that is under the influence of
+gravity”. Simply speaking, the object has a weight expressed in grams for example. This concept of mass will become relevant later on.
+
+These macro’s are then eaten and turned into;
+
+     (0) Oxygen is used to oxidize mass that can then be used for “energy” and other purposes. Note: Food does not get “burned”, as may
+     be typical in speaking language.
+     (3) Hormones play a role in how that mass is used depending on which macro it is (among other things)
+     (4) Waste or byproducts of the chemical reactions of transforming the Macro nutrient content(1) into "waste" such as; water vapor,
+     CO2 from breathing, heat through your skin and feces.
+     (5) Some of that mass will be retained by the body in the form of; muscles, fat or other supporting tissue and repair of tissue
+     damage. Other mass is turned into ATP as energy to perform activities such as running, and walking.
+
+All of this is determined by your body’s homeostasis, which essentially means that the body will try to keep a steady state using feedback
+loops (of which your Hormones) to try and keep it stable under the influence of your environment.
+With these feedback loops your body regulates; body temperature, pH, blood sugar levels, blood pressure, body weight, and many more
+systems for optimal body function.
+
+This homeostasis concept is different for everyone. We all have had different dietary patterns, exercise history, exposures to good air, bad
+air, chemicals etc..
+
+If it's different for everyone because of our environment, food, exercise, etc. That means we can also change our hemeostasis for the
+better.
+
+      This concept of homeostasis, and how we are influencing it. Is important to understand such that we can see why counting
+      Calories has a few issues,
+
+What are Calories? and do we need them?
+      A calorie is a unit of energy, not a measure of weight or nutrient density. The calories you see on nutrition labels, however, are
+      actually kilocalories, or kcals.
+
+Typically these two methods are used to measure the caloric value of a food item:
+
+      Bomb Calorimetry: Scientists place the food in a sealed container surrounded by water and heat it until the food is completely
+      burned off. The rise in water temperature (in milliliters; ml) is recorded to determine the number of calories in the food item.
+            Note there’s a piston in the Calorimeter to which a force is applied by expanding gasses inside the container. However, it’s
+            typically ignored in the final calculation.
+      The Atwater system uses the average values of 4 Kcal/g for protein, 4 Kcal/g for carbohydrate, and 9 Kcal/g for fat. Alcohol is
+      calculated at 7 Kcal/g. (These numbers were originally determined by burning and then averaging measurements)
+
+      To measure is to know. — Lord Kelvin
+
+The Calorie measurements are based on a closed system of which the energy release is measured.
+
+What is Energy?
+
+Generally speaking mass is a condensed form of energy, that's the well known Einstein formula
+
+E=MC2E=MC^2E = MC2
+
+The Calorie concept does not deal with mass directly, instead what it measures is the heat increase in a closed thermal system.
+
+This means we need to look atThe First Law of Thermodynamics, which states:
+
+ΔE=Q−WΔE = Q - WΔE = Q − W
+
+      Energy can be converted from one form to another with the interaction of heat, work and internal energy, but itcannot be
+      created nor destroyed, under any circumstances
+
+ΔEΔEΔE is the change in energy, QQQ is the heat added to the system, the food burned.WWW is the work done on the system.
+
+Work is defined as: W=fdW = fdW = fd :
+
+      fff = Force is calculated as f=maf=maf = ma
+             mmm = Mass. It must have a weight.
+             aaa = Acceleration, i.e. driving away at a green traffic light.
+      ddd = Distance, measurement of how “much”. e.g. meters or as a volume; liters.
+
+W in the context of the calorimeter, applies to the piston inside of the container getting pushed by expanding gasses. W is typically
+ignored since it’s a very small value.
+
+Calories are therefore expressed as:
+
+ΔE=QΔE = QΔE = Q
+
+      Better would be; Q=−CΔTQ = -CΔTQ = −CΔT where C is the heat capacity of the calorimeter (known) and ΔT is the
+      temperature change of the water (measurable).
+
+A calorie is a unit of heat energy.
+
+How is body weight affected?
+
+      Body mass can only be changed by absorbing mass, and by excreting mass across the system boundary.
+
+If calories do not have a mass, and they're measured within a closed thermodynamic system. Then we can already identify a few
+problems:
+
+1. The body is an open thermodynamic system
+We exchange mass and heat with the outside world, we are not a closed "container" that heats mass to “get energy” without further
+interactions with the environment.
+
+2. The body is not a perfect “machine”
+
+We loose energy via; heat, waste products, exercise etc.
+
+The Second Law of Thermodynamics introduces the concept of entropy. In the context of the human body that means:
+
+      is increased as energy is lost through various means, such as heat (QQQ in our calorie example), waste products, and exercise.
+Entropy
+The human body is not a perfect energy converter.
+
+That means when you eat food, we have more byproducts than just calories ("Calories Out").
+
+3. The body does not burn calories, it converts mass to other mass.
+
+This process of mass "conversion" is expressed in this diagram:
+
+      Conversion of mass occurs with oxygen (0), inhaled via the lungs.
+      The oxygen interacts with macro nutrients (oxidizing).
+      Creating other molecules under the influence of your hormones (among other things)(3).
+      With the end results as CO2 (4) and H2O (5).
+      H20 is added to pools of water and is partly excreted by the kidneys for example(4).
+
+What about Hormones?
+Hormones affect numerous systems in your body to do with metabolism, sleep, hunger, satiety, and stress among many more.
+
+Your macro food intake interacts with your endocrine system (hormones) as soon as it is eaten.
+
+A few examples of macros eaten and how they can effect hormones and your body weight;
+
+The Insulin-Carbohydrate Dance
+
+      The Insulin-Carbohydrate Dance
+
+
+
+
+When you consume carbohydrates, your body breaks them down into glucose, which enters the bloodstream. This triggers the release of
+insulin, a hormone that helps transport glucose into cells for energy. Insulin also promotes the storage of excess glucose as glycogen in
+the liver and muscles. If glycogen stores are full, insulin can signal the conversion of glucose into fatty acids, which are then stored as fat.
+So, a high-carb diet can lead to weight gain through this mechanism.
+
+The Insulin-Human Growth Hormone Connection
+
+      The Insulin-Human Growth Hormone Connection
+
+
+
+
+When insulin levels are high, as after a meal, the body is in a state of energy storage. In this state, growth hormone production is
+suppressed, as the body does not need to mobilize stored energy.
+
+On the other hand, when insulin levels are low, as during fasting or exercise, the body is in a state of energy mobilization. In this state,
+growth hormone production is increased, to promote the breakdown of stored fat and protein for energy.
+
+This means body weight changes in this context is affected by;
+
+     meal frequency and,
+     macro content
+          fat does not produce an insulin response,
+          protein a little bit,
+          carbohydrates more depending on the type of carb how much.
+
+The Glucagon-Protein Tango
+
+     The Glucagon-Protein Tango
+
+
+
+
+Glucagon is a hormone that counteracts insulin by promoting the breakdown of glycogen and the release of glucose into the bloodstream.
+
+It also stimulates the production of ketone bodies from fatty acids, which can be used as an energy source.
+
+A high-protein, low-carb diet can increase glucagon levels, potentially leading to weight loss through increased fat burning.
+
+To hammer it home
+
+A few extreme examples to hammer home the point. Hormones are very essential in the weight management equation.
+
+     Type 1 diabetics cannot store fat, cannot create muscle. Type 1 Diabetics loose lean tissue even though they are eating a
+     ‘calorie surplus’.
+
+     Cushing’s syndrome is a disorder related to the overproduction of cortisol, which then causes the accumulation of fat around
+     the trunk and can be difficult to distinguish from ordinary obesity
+
+Weight (fat, lean tissue, water weight) is managed demonstrably by your hormonal state in a very fundamental way.
+
+Calories In, Calories Out (CICO) is fundamentally broken
+The concept of calories is presented in a way as if it can track your daily food and energy requirements. However none of these two goals
+are true.
+
+  1. Calories do not distinguish between macros and your hormonal state.
+          Different macro compositions, cause fundamentally different outcomes in the body. Under the influence of your hormone
+          status, and it’s feedback loops. A macro can attribute to:
+                fat tissue.
+                tissue creation such as; bones, ligaments, muscles etc.
+                mass excretion through the skin and feces.
+                mass use for energy, ATP.
+  2. Calories are an erroneous accounting concept in the context of Human diet.
+          Food is not energy, it is mass. Some of the consumed mass can be turned into ATP (mass that can be used as “energy”).
+          The body is an open system that interacts with its environment.
+                It’s not a closed container where food is “burned”.
+
+A more appropriate substitute for CICO would be Mass In, Mass Out (MIMO).
+
+3 Steps towards a more holistic Health approach
+      Consider a more holistic approach to Health
+
+
+
+
+1. Choose the correct Macro composition.
+
+      Consider eating only whole foods. That means not processed by a factory, but coming straight from the soil or an animal.
+
+General rules of thumb with macros:
+
+      Carbohydrates are the lever to control your fat gain/loss primarily.
+          If you’re not on a low carb diet, you need to control this lever tightly based on;
+                your exercise level
+                and how you respond generally (your hormonal state). to carb intake and which carbs may be more problematic for you
+                than others.
+
+The main staple of your diet should be Fat and Protein:
+
+      Protein is a dietary requirement to build muscle, bone and ligament tissues that are essential for health.
+            Protein requirement calculation that I use:
+                  2 grams per Kg. of ideal body weight for a typical individual. If you’re a body builder, in that case you’re likely beyond this
+                  ratio.
+      Fat is essential for hormone production, for the heart and brain to function optimally.
+            Fat, eat the rest of your food intake as fat. Ideally this should be as high as possible, carbs as low as possible.
+
+Ideally you would eat a low-carb diet, this provides the best control over weight (fat loss) and it will improve many health markers.
+
+This is a topic of discussion I’d like to get into in the next article.
+
+2. Track your health over time
+
+When you’ve created a general macro outline; e.g. 50 grams of carbohydrates, 200 grams of protein and 200 grams of fat.
+
+To begin measuring your health status;
+
+  1. Track your (fat) weight over time;
+          Minimum amount of time to get a sense of your average weight is 1 week.
+          To track changes across time, you would need to track for at least a month to get a sense of a weight trend.
+  2. Track your consistency with exercise such as walking daily and doing weight based training regularly.
+  3. Manage your stress levels (Cortisol) during the day and weeks.
+          Sufficient sleep here is important, by:
+                Setting your proper circadian rhythm with fixed sleep times, and getting sun light in the morning, afternoon, and early
+                evening.
+                Avoid blue light after sun down by using blue light filters (glasses if possible).
+
+Cortisol can have big effects on your physical composition!
+
+      In extreme cases Cortisol will eat away at your lean mass to get quick glucose. Or it can start to increase fat storage, making
+      you gain fat weight.
+
+3. Adjust based on your situation, repeat.
+
+If your fat weight is increasing? Consider:
+     Using the carbohydrate lever, and track again for a couple of weeks to see if the weight trend adjusts.
+     Or, perhaps it’s an increase in stress from work?
+     Perhaps, it's a lack of sleep?
+     Or a combination of all of them?
+
+     Consider the factors involved, adjust those dials, and measure.
+
+A few notes about cravings (Ghrelin) and fullness (Leptin) after eating:
+
+     The higher the Insulin response from your food (carbohydrate intake amount), the higher the Ghrelin response afterwards. High
+     Ghrelin makes you want to eat again.
+     Excessive carb intake can blunt the Leptin signalling (the feeling of fullness), that can also make you binge eat. Usually people that
+     have normal body type and high fat mass (visceral fat), are susceptible to this!
+
+Conclusion
+We have established that the calorie concept isn’t very helpful for Health management (and fat weight loss for that matter).
+
+Instead, by applying a more holistic approach you should consider;
+
+     Your Health, and hormone status.
+     What you eat. How much of it you eat (in macros) measured by weight (grams, ounces, etc).
+     Exercise habits,
+     and general stress control.
+
+This approach will provide you with a more holistic view on Health rather than just a fat loss viewpoint with an accounting system (CICO).
+
+I realize there are many other factors that were not discussed or explained in detail. Such as;
+
+     Optimal diet
+     Exercise
+     Sleep
+     Light (sunlight, blue light)
+     and stress regulation.
+
+In the articles yet to come, I’ll provide my perspective on how we can continue this Health journey with more actionable insights.
+
+Please let me know on Twitter if you have any questions or shoot me amail!
+
+Subscribe to my newsletter below for more Health insights!
+
+References
+  1. United States trends in Obesity: https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity ↩ ↩2
+
+
+Title Beyond the Numbers - A Holistic Approach to Health and Weight Tracking
+Author Rolf Streefkerk
+
+Article link: https://rolfstreefkerk.com/posts/a-holistic-approach-to-health-and-weight-tracking [copy]
+
+Last Modified:
+
+
+© 2024 Rolf Streefkerk. All rights reserved.
+
+How to deploy your own website on AWS
+Newsletter
+
+New insights into Health, IT, and Science
+Join my newsletter for more in-depth Articles every single week.
+
+Email Address
+  Subscribe
+     >
+Built with ConvertKit
+©2024 Rolf Streefkerk. RSS Site Map
+| 13.8k words
+
